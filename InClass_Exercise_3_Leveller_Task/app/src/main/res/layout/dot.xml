@@ -1,0 +1,8 @@
+<ImageView
+    android:id="@+id/dot"
+    android:layout_height="10px"
+    android:layout_width="10px"
+    android:src="@drawable/dot"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+</ImageView>
